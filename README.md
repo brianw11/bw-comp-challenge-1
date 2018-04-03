@@ -12,8 +12,6 @@ Original Version:
 
 My version:
 <br>
-![alt-text](https://brianw11.github.io/bw-comp-challenge-1/)
-
 <img src="https://brianw11.github.io/bw-comp-challenge-1/">
 
 
