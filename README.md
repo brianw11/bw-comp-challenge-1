@@ -6,7 +6,8 @@ Static_Comp_1
 Original Version:
 <br>
 ![alt-text](http://frontend.turing.io/projects/m1-static-comp-1.html)
-
+<br>
+<img src="http://frontend.turing.io/assets/images/static-comp-challenge-1.jpg">
 
 
 My version:
